@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: GitHub Fork Storage
 description: Make your GitHub profile cleaner, show only the repositories you actually create.
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
+  - jemoji
