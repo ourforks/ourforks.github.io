@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## GitHub Fork Storage
 
-You can use the [editor on GitHub](https://github.com/ourforks/ourforks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! **GitHub fork storage** is a project aimed to make organizing your profile and repositories list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does it work??
 
-### Markdown
+1. [Request an invite](#please-invite-me)
+2. [Transfer any existing forks](https://help.github.com/en/github/administering-a-repository/transferring-a-repository) into the organization once you have accepted your invite
+3. You are good to go! In the future, when you fork, you should select this organization as the fork destination so it goes directly here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Please invite me!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ourforks/ourforks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To get an invite (which gives you access to read all public repositories, transfer repositories into the organization, and permission to fork directly to the organization), [click here](https://github.com/ourforks/Invite/issues/new) and fill out the template.
